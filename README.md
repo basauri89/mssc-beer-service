@@ -1,2 +1,2 @@
 # mssc-beer-service
-Beer Spring Service
+Spring boot micro service for Beer Service
