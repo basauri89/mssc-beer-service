@@ -1,0 +1,11 @@
+D:\JavaWorkSpace\mssc-beer-service\src\main\java\com\jbasauri\msscbeerservice\domain\Beer.java
+D:\JavaWorkSpace\mssc-beer-service\src\main\java\com\jbasauri\msscbeerservice\MsscBeerServiceApplication.java
+D:\JavaWorkSpace\mssc-beer-service\src\main\java\com\jbasauri\msscbeerservice\web\controller\MvcExceptionHandler.java
+D:\JavaWorkSpace\mssc-beer-service\src\main\java\com\jbasauri\msscbeerservice\repositories\BeerRepository.java
+D:\JavaWorkSpace\mssc-beer-service\src\main\java\com\jbasauri\msscbeerservice\web\mappers\BeerMapper.java
+D:\JavaWorkSpace\mssc-beer-service\src\main\java\com\jbasauri\msscbeerservice\web\model\BeerPagedList.java
+D:\JavaWorkSpace\mssc-beer-service\src\main\java\com\jbasauri\msscbeerservice\web\controller\BeerController.java
+D:\JavaWorkSpace\mssc-beer-service\src\main\java\com\jbasauri\msscbeerservice\web\mappers\DateMapper.java
+D:\JavaWorkSpace\mssc-beer-service\src\main\java\com\jbasauri\msscbeerservice\bootstrap\BeerLoader.java
+D:\JavaWorkSpace\mssc-beer-service\src\main\java\com\jbasauri\msscbeerservice\web\model\BeerDto.java
+D:\JavaWorkSpace\mssc-beer-service\src\main\java\com\jbasauri\msscbeerservice\web\model\BeerStyleEnum.java

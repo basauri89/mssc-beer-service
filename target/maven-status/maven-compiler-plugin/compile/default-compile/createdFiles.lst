@@ -1,0 +1,14 @@
+com\jbasauri\msscbeerservice\web\controller\MvcExceptionHandler.class
+com\jbasauri\msscbeerservice\MsscBeerServiceApplication.class
+com\jbasauri\msscbeerservice\web\model\BeerStyleEnum.class
+com\jbasauri\msscbeerservice\web\model\BeerDto$BeerDtoBuilder.class
+com\jbasauri\msscbeerservice\web\model\BeerDto.class
+com\jbasauri\msscbeerservice\web\mappers\BeerMapperImpl.class
+com\jbasauri\msscbeerservice\web\controller\BeerController.class
+com\jbasauri\msscbeerservice\web\model\BeerPagedList.class
+com\jbasauri\msscbeerservice\web\mappers\BeerMapper.class
+com\jbasauri\msscbeerservice\web\mappers\DateMapper.class
+com\jbasauri\msscbeerservice\domain\Beer$BeerBuilder.class
+com\jbasauri\msscbeerservice\domain\Beer.class
+com\jbasauri\msscbeerservice\bootstrap\BeerLoader.class
+com\jbasauri\msscbeerservice\repositories\BeerRepository.class
